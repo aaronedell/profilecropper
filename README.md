@@ -14,3 +14,4 @@ Some code to automatically create profile photos using face detection.
 - Machine Box provides the face recognition tool. It returns a rect from a photo. There currently is a 20 pixel padding hard coded into profilecropper to give some space around the cropped photo. This obviously can be adjusted. 
 - profilecropper will give an error if there is a photo in the 'in' directory with less than or more than 1 face, and will skip to the next photo. 
 
+https://medium.com/@aaronedell/how-i-use-machine-learning-to-save-time-49f8b0ee0881
